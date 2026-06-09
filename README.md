@@ -8,13 +8,6 @@ Eine moderne, responsive Restaurant-Website für das **Stern Pizza & Kebap Haus*
 
 > Projekt lokal öffnen: `index.html` im Browser aufrufen
 
----
-
-## 📸 Screenshots
-
-| Hero-Bereich | Speisekarte |
-|---|---|
-| ![Hero](images/doener-teller.png) | ![Speisekarte](images/doener.png) |
 
 ---
 
@@ -64,7 +57,7 @@ stern-website/
 
 ## 👤 Entwickler
 
-**Tiemo Ramjad**  
+**Tiemor Yousafzai**  
 Informatik-Student · HTWG Konstanz  
 [GitHub](https://github.com/ti911amj)
 
