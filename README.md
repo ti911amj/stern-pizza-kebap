@@ -126,11 +126,5 @@ http://localhost/stern-website/admin/login.php
 
 ## Entwickler
 
-**Tiemo Ramjad**  
+**Tiemor Yousafzai**  
 Informatik-Student · HTWG Konstanz  
-[GitHub](https://github.com/ti911amj) · tiemoramjad2000@gmail.com
-
----
-
-> Entwickelt als Portfolio-Projekt für eine Bewerbung im Bereich Web-Entwicklung.  
-> Echtes Projekt · Echter Kunde · Echter Tech-Stack.
