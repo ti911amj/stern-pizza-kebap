@@ -61,6 +61,3 @@ stern-website/
 Informatik-Student · HTWG Konstanz  
 [GitHub](https://github.com/ti911amj)
 
----
-
-> Dieses Projekt wurde als Portfolio-Projekt im Rahmen einer Bewerbung für ein Web-Entwicklungs-Praktikum erstellt.
