@@ -11,14 +11,6 @@ Vollständige Restaurant-Website mit eigenem CMS-Backend für das **Stern Pizza 
 
 ---
 
-## Screenshots
-
-| Hero-Bereich | Speisekarte | Admin-Panel |
-|---|---|---|
-| ![Hero](images/doener-teller.png) | ![Speisekarte](images/doener.png) | ![Admin](images/storefront.jpg) |
-
----
-
 ## Tech Stack
 
 | Technologie | Einsatz |
